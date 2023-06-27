@@ -1,0 +1,15 @@
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\bin\Debug\net6.0\Forecast.Repositories.deps.json
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\bin\Debug\net6.0\Forecast.Repositories.dll
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\bin\Debug\net6.0\Forecast.Repositories.pdb
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\bin\Debug\net6.0\Forecast.Models.dll
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\bin\Debug\net6.0\Forecast.Models.pdb
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\obj\Debug\net6.0\Forecast.Repositories.csproj.AssemblyReference.cache
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\obj\Debug\net6.0\Forecast.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\obj\Debug\net6.0\Forecast.Repositories.AssemblyInfoInputs.cache
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\obj\Debug\net6.0\Forecast.Repositories.AssemblyInfo.cs
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\obj\Debug\net6.0\Forecast.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\obj\Debug\net6.0\Forecast.Repositories.csproj.CopyComplete
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\obj\Debug\net6.0\Forecast.Repositories.dll
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\obj\Debug\net6.0\refint\Forecast.Repositories.dll
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\obj\Debug\net6.0\Forecast.Repositories.pdb
+C:\Users\AAA\source\repos\Forecast\Forecast.Repositories\obj\Debug\net6.0\ref\Forecast.Repositories.dll

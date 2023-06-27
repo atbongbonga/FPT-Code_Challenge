@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GQ+QdffkYWTsfmO+9Qsx6H5qvATOha8P6uPv28gwNn2/3zS99o7YGSLJ44EzY3GOWn6jj8IlLVh+BkeK/gfruA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AAA\\source\\repos\\Forecast\\Forecast.Services\\Forecast.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AAA\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
